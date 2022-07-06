@@ -3,6 +3,7 @@ body{
     
     width: 100%; 
     margin-bottom: auto;
+    
 }
 h1{
     font-size: 60px;
@@ -18,16 +19,17 @@ h1{
     margin: 0px;
     
     
+    
 } 
 .orange-color{
     color: white;
 }
 .donate{
-    width: 100%;
     background-image: url(donation13.jpg);
-    background-position: 0%;
-    margin: 0;
-    border-radius: 5px;
+    background-position: center;
+    text-align: center;
+    height: 300px;
+    color: aliceblue;
 }
 .button{
     color: white;
@@ -41,10 +43,38 @@ h1{
     
 }
 .paragraph{
-    font-weight: 300px;
+    font-weight: 400px;
 }
 .today{
     text-align: center;
     padding: 40px 60px;
 
+}
+.best{
+    width: 140px;
+    height: 30px;
+    
+    text-align: center; 
+}
+.ammount{
+    display: flex;
+    padding: 30px 300px;
+    color: gray;
+    font-weight: 700px;
+    
+    
+}
+.other-ammount{
+    text-align: center;
+    color: rgb(100, 95, 95);
+    padding: 20px 250px;
+    margin-bottom: 80px;
+    
+}
+.donate-plan{
+    text-align: center;
+
+}
+.think{
+    color: rgb(96, 77, 50);
 }
