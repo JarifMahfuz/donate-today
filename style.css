@@ -2,12 +2,21 @@ body{
     font-family: 'Ubuntu', sans-serif;
     
     width: 100%; 
-    margin-bottom: auto;
+    margin-bottom: 0;
     
 }
 h1{
     font-size: 60px;
     padding: 0%;
+}
+.donate{
+    background-image: url(donation13.jpg);
+    
+
+    background-position: center;
+    text-align: center;
+    height: 400px;
+    color: aliceblue;
 }
 
 .half-width{
@@ -24,13 +33,7 @@ h1{
 .orange-color{
     color: white;
 }
-.donate{
-    background-image: url(donation13.jpg);
-    background-position: center;
-    text-align: center;
-    height: 300px;
-    color: aliceblue;
-}
+
 .button{
     color: white;
     background-color: blueviolet;
