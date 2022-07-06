@@ -1,3 +1,50 @@
 body{
     font-family: 'Ubuntu', sans-serif;
+    
+    width: 100%; 
+    margin-bottom: auto;
+}
+h1{
+    font-size: 60px;
+    padding: 0%;
+}
+
+.half-width{
+    text-align: center;
+    color: white;
+    padding: 10%;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    margin: 0px;
+    
+    
+} 
+.orange-color{
+    color: white;
+}
+.donate{
+    width: 100%;
+    background-image: url(donation13.jpg);
+    background-position: 0%;
+    margin: 0;
+    border-radius: 5px;
+}
+.button{
+    color: white;
+    background-color: blueviolet;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 900px;
+    border-radius: 15%;
+    background-image: repeating-linear-gradient(rgb(194, 55, 120), rgb(37, 205, 34));
+    text-align: center;
+    
+}
+.paragraph{
+    font-weight: 300px;
+}
+.today{
+    text-align: center;
+    padding: 40px 60px;
+
 }
