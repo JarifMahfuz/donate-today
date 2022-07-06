@@ -78,3 +78,24 @@ h1{
 .think{
     color: rgb(96, 77, 50);
 }
+.span-1{
+    border: 10px 10px;
+    margin: 5%;
+}
+.fight{
+    padding: 20px 80px ;
+    border: 10px 50px;
+    margin: 20px;
+    background-color: antiquewhite;
+    
+}
+.flexible{
+    display: flex;
+    width: 100%;
+}
+#fight-1{
+    background-color: aquamarine;
+}
+#fight-2{
+    background-color: rgb(174, 206, 58);
+}
