@@ -5,19 +5,29 @@ body{
     margin-bottom: 0;
     
 }
-h1{
-    font-size: 60px;
-    padding: 0%;
+.padding{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 10px 20px;
+    color: white;
+    margin: 0%;
+}
+.headline{
+    font-size: 30px;
+    color: rgb(24, 46, 5);
+    font-weight: 700;
 }
 .donate{
-    background-image: url(donation13.jpg);
-    
-
-    background-position: center;
     text-align: center;
-    height: 400px;
+    margin-bottom: 250px;
+    background-image: url(donation13.jpg);
     color: aliceblue;
+    padding: 100px 300px;
 }
+.today{
+    font-weight: 400;
+}
+
 
 .half-width{
     text-align: center;
@@ -38,7 +48,7 @@ h1{
     color: white;
     background-color: blueviolet;
     text-decoration: none;
-    padding: 10px;
+    padding: 10px 40px;
     font-weight: 900px;
     border-radius: 15%;
     background-image: repeating-linear-gradient(rgb(194, 55, 120), rgb(37, 205, 34));
@@ -46,7 +56,10 @@ h1{
     
 }
 .paragraph{
-    font-weight: 400px;
+    font-weight: 500px;
+    font-size: medium;
+    padding: 10px 30px 70px;
+    
 }
 .today{
     text-align: center;
