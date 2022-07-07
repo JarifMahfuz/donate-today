@@ -121,9 +121,14 @@ body{
     background-color: black;
     height: 40% 30%;
     width: 60px 200px;
-    margin: 0;
+    padding: 20px 50px;
 }
 .color-end{
     color: coral;
     font-weight: 300px;
+    padding: 10px 30px;
+}
+.foot-end{
+    padding: 15px 30px;
+    font-weight: 500;
 }
